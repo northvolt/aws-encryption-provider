@@ -1,4 +1,4 @@
-REPO?=112243728910.dkr.ecr.eu-west-1.amazonaws.com/platform/aws-encryption-provider
+REPO?=112243728910.dkr.ecr.eu-west-1.amazonaws.com/platform
 IMAGE?=aws-encryption-provider
 TAG?=v0.1.0
 
