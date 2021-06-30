@@ -1,6 +1,6 @@
-REPO?=gcr.io/must-override
+REPO?=112243728910.dkr.ecr.eu-west-1.amazonaws.com/platform/aws-encryption-provider
 IMAGE?=aws-encryption-provider
-TAG?=0.0.1
+TAG?=v0.1.0
 
 .PHONY: lint test build-docker build-server build-client
 
